@@ -1,0 +1,4 @@
+[dev]
+13.233.168.93 ansible_user="ec2-user" ansible_port=22 ansible_ssh_private_key_file="ansible-evening.pem"
+[build]
+13.232.243.251 ansible_user="ec2-user" ansible_port=22 ansible_ssh_private_key_file="ansible-evening.pem"
